@@ -1,0 +1,10 @@
+C:\Users\arthur.santana\source\repos\aula60\bin\Debug\aula60.exe.config
+C:\Users\arthur.santana\source\repos\aula60\bin\Debug\aula60.exe
+C:\Users\arthur.santana\source\repos\aula60\bin\Debug\aula60.pdb
+C:\Users\arthur.santana\source\repos\aula60\obj\Debug\aula60.csproj.AssemblyReference.cache
+C:\Users\arthur.santana\source\repos\aula60\obj\Debug\aula60.Properties.Resources.resources
+C:\Users\arthur.santana\source\repos\aula60\obj\Debug\aula60.csproj.GenerateResource.cache
+C:\Users\arthur.santana\source\repos\aula60\obj\Debug\aula60.csproj.CoreCompileInputs.cache
+C:\Users\arthur.santana\source\repos\aula60\obj\Debug\aula60.exe
+C:\Users\arthur.santana\source\repos\aula60\obj\Debug\aula60.pdb
+C:\Users\arthur.santana\source\repos\aula60\obj\Debug\aula60.F_Principal.resources
