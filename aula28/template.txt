@@ -1,0 +1,25 @@
+[ModificadorClasse] class NOME_DA_CLASSE{
+    //Variaveis / propriedades
+    [EspeceficadorAcesso] tipo NOME_PROPRIEDADE;
+
+    //Métodos
+    [EspecificadorAcesso] retorno NOME_MÉTODO([arg1,....]){
+         // corpo do método
+    }
+}
+
+//ModificadorClasse: Define a visibilidade da classe 
+    //public: Pública, sem restrição de visualização
+    // abstract: Classe-Base para outras classes, não podem ser
+                            // instanciados a objetos desta classe 
+    //sealed: Classe não pode ser herdada
+    //static: Classe não permite a instanciação de objetos e seus membros devem ser static
+
+//EspecificadorAcesso: Onde um membro de classe pode ser acessado
+    //public: Sem restrição de acesso 
+    //private: Só podem ser acessados pela própria classe
+    //protected: Podem ser acessados a própria classe e nas classes derivadas
+    //abstract: Os métodos não tem implementção somente os cabeçalhos
+    //sealed: O método não pode ser redefinido
+    //virutal: O método pode ser redefinido em uma classe derivada
+    //static: O método pode ser chamado mesmo sem a intrução de um objeto
